@@ -1,0 +1,16 @@
+useage:     python mini_spider.py -c ./conf/spider.conf
+dependent:  bs4-beautifulsoup
+file directory:
+|----conf                  mini_spider conf
+|    |---spider.conf       conf_file
+|    |---urls              crawled url
+|----log                   log output 
+|    |---mini_spider.log   log file
+|----output                url save
+|    |---xxxxx.html
+|----config_load.py       
+|----logger.py
+|----multi_crawler.py
+|----mini_spider.py        main function file
+|----spider_unittest.py
+|----webpage_save.py

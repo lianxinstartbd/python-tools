@@ -2,7 +2,7 @@
 1.unit
 2.request
 3.urllib
-4.hadoop-streaming
+4.hadoop-streaming  // ok
 5.web-server
 6.Beautifulsoup
 7.re

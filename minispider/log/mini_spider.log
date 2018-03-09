@@ -1,0 +1,297 @@
+[INFO] [12-05 14:10:50] Start to load config file: ./conf/spider.conf
+[INFO] [12-05 14:10:50] load config success!
+[INFO] [12-05 14:10:50] Load urls success!
+[INFO] [12-05 14:10:50] Start to crawl urls in the url_queue:['http://pycm.baidu.com:8081']
+[INFO] [12-05 14:10:50] Start to crawl the url: http://pycm.baidu.com:8081
+[INFO] [12-05 14:10:50] The crawled url: http://pycm.baidu.com:8081/page1.html
+[INFO] [12-05 14:10:50] The crawled url: http://pycm.baidu.com:8081/page2.html
+[INFO] [12-05 14:10:50] The crawled url: http://pycm.baidu.com:8081/page3.html
+[INFO] [12-05 14:10:50] The crawled url: http://pycm.baidu.com:8081/mirror/index.html
+[INFO] [12-05 14:10:50] The crawled url: http://pycm.baidu.com:8081/page4.html
+[INFO] [12-05 14:10:51] Start to crawl the url: http://pycm.baidu.com:8081/page1.html
+[INFO] [12-05 14:10:51] Start to crawl the url: http://pycm.baidu.com:8081/page2.html
+[INFO] [12-05 14:10:51] Start to crawl the url: http://pycm.baidu.com:8081/page3.html
+[INFO] [12-05 14:10:51] Start to crawl the url: http://pycm.baidu.com:8081/mirror/index.html
+[INFO] [12-05 14:10:51] Start to crawl the url: http://pycm.baidu.com:8081/page4.html
+[INFO] [12-05 14:10:51] The crawled url: http://pycm.baidu.com:8081/page2_1.html
+[ERROR] [12-05 14:10:51] Url: http://pycm.baidu.com:8081/page4.html has IOError: HTTP Error 404: Not Found
+[ERROR] [12-05 14:10:51] Url: http://pycm.baidu.com:8081/page4.html has IOError: HTTP Error 404: Not Found
+[ERROR] [12-05 14:10:51] Url: http://pycm.baidu.com:8081/page4.html has IOError: HTTP Error 404: Not Found
+[INFO] [12-05 14:10:51] The crawled url: http://pycm.baidu.com:8081/2/index.html
+[INFO] [12-05 14:10:51] The crawled url: http://pycm.baidu.com:8081/page1.html
+[INFO] [12-05 14:10:51] The crawled url: http://pycm.baidu.com:8081/page2.html
+[INFO] [12-05 14:10:51] The crawled url: http://pycm.baidu.com:8081/page3.html
+[INFO] [12-05 14:10:51] The crawled url: http://pycm.baidu.com:8081/mirror/index.html
+[INFO] [12-05 14:10:51] The crawled url: http://pycm.baidu.com:8081/page4.html
+[INFO] [12-05 14:10:52] Start to crawl the url: http://pycm.baidu.com:8081/page2_1.html
+[INFO] [12-05 14:10:52] Start to crawl the url: http://pycm.baidu.com:8081/2/index.html
+[INFO] [12-05 14:10:52] The crawled url: http://pycm.baidu.com:8081/page2_1.html
+[INFO] [12-05 14:10:52] The crawled url: http://pycm.baidu.com:8081/page2_1.html
+[INFO] [12-05 14:10:52] The crawled url: http://pycm.baidu.com:8081/2/3/index.html
+[INFO] [12-05 14:10:52] The crawled url: http://pycm.baidu.com:8081/2/3/index.html
+[INFO] [12-05 14:10:53] Start to crawl the url: http://pycm.baidu.com:8081/2/3/index.html
+[INFO] [12-05 14:10:53] The crawled url: http://pycm.baidu.com:8081/page2_1.html
+[INFO] [12-05 14:10:53] The crawled url: http://pycm.baidu.com:8081/2/3/4/index.html
+[WARNING] [12-05 14:10:54] The url: http://pycm.baidu.com:8081 not match pattern
+[WARNING] [12-05 14:10:54] The url: http://pycm.baidu.com:8081/page1.html match pattern
+[INFO] [12-05 14:10:54] Match url: http://pycm.baidu.com:8081/page1.html
+[INFO] [12-05 14:10:54] Save url: http://pycm.baidu.com:8081/page1.html success!
+[INFO] [12-05 14:10:54] success save url: http://pycm.baidu.com:8081/page1.html
+[WARNING] [12-05 14:10:54] The url: http://pycm.baidu.com:8081/page2.html match pattern
+[INFO] [12-05 14:10:54] Match url: http://pycm.baidu.com:8081/page2.html
+[INFO] [12-05 14:10:54] Save url: http://pycm.baidu.com:8081/page2.html success!
+[INFO] [12-05 14:10:54] success save url: http://pycm.baidu.com:8081/page2.html
+[WARNING] [12-05 14:10:54] The url: http://pycm.baidu.com:8081/page3.html match pattern
+[INFO] [12-05 14:10:54] Match url: http://pycm.baidu.com:8081/page3.html
+[INFO] [12-05 14:10:54] Save url: http://pycm.baidu.com:8081/page3.html success!
+[INFO] [12-05 14:10:54] success save url: http://pycm.baidu.com:8081/page3.html
+[WARNING] [12-05 14:10:54] The url: http://pycm.baidu.com:8081/mirror/index.html match pattern
+[INFO] [12-05 14:10:54] Match url: http://pycm.baidu.com:8081/mirror/index.html
+[INFO] [12-05 14:10:54] Save url: http://pycm.baidu.com:8081/mirror/index.html success!
+[INFO] [12-05 14:10:54] success save url: http://pycm.baidu.com:8081/mirror/index.html
+[WARNING] [12-05 14:10:54] The url: http://pycm.baidu.com:8081/page4.html match pattern
+[INFO] [12-05 14:10:54] Match url: http://pycm.baidu.com:8081/page4.html
+[INFO] [12-05 14:10:54] Save url: http://pycm.baidu.com:8081/page4.html success!
+[INFO] [12-05 14:10:54] success save url: http://pycm.baidu.com:8081/page4.html
+[WARNING] [12-05 14:10:54] The url: http://pycm.baidu.com:8081/page2_1.html match pattern
+[INFO] [12-05 14:10:54] Match url: http://pycm.baidu.com:8081/page2_1.html
+[INFO] [12-05 14:10:54] Save url: http://pycm.baidu.com:8081/page2_1.html success!
+[INFO] [12-05 14:10:54] success save url: http://pycm.baidu.com:8081/page2_1.html
+[WARNING] [12-05 14:10:54] The url: http://pycm.baidu.com:8081/2/index.html match pattern
+[INFO] [12-05 14:10:54] Match url: http://pycm.baidu.com:8081/2/index.html
+[INFO] [12-05 14:10:54] Save url: http://pycm.baidu.com:8081/2/index.html success!
+[INFO] [12-05 14:10:54] success save url: http://pycm.baidu.com:8081/2/index.html
+[WARNING] [12-05 14:10:54] The url: http://pycm.baidu.com:8081/2/3/index.html match pattern
+[INFO] [12-05 14:10:54] Match url: http://pycm.baidu.com:8081/2/3/index.html
+[INFO] [12-05 14:10:54] Save url: http://pycm.baidu.com:8081/2/3/index.html success!
+[INFO] [12-05 14:10:54] success save url: http://pycm.baidu.com:8081/2/3/index.html
+[INFO] [12-05 14:10:54] End to spider!
+[INFO] [12-05 14:20:22] Start to load config file: ./conf/spider.conf
+[INFO] [12-05 14:20:22] load config success!
+[INFO] [12-05 14:20:22] Load urls success!
+[INFO] [12-05 14:20:22] Start to crawl urls in the url_queue:['http://pycm.baidu.com:8081']
+[INFO] [12-05 14:20:22] Start to crawl the url: http://pycm.baidu.com:8081
+[INFO] [12-05 14:20:22] The crawled url: http://pycm.baidu.com:8081/page1.html
+[INFO] [12-05 14:20:22] The crawled url: http://pycm.baidu.com:8081/page2.html
+[INFO] [12-05 14:20:22] The crawled url: http://pycm.baidu.com:8081/page3.html
+[INFO] [12-05 14:20:22] The crawled url: http://pycm.baidu.com:8081/mirror/index.html
+[INFO] [12-05 14:20:22] The crawled url: http://pycm.baidu.com:8081/page4.html
+[INFO] [12-05 14:20:23] Start to crawl the url: http://pycm.baidu.com:8081/page1.html
+[INFO] [12-05 14:20:23] Start to crawl the url: http://pycm.baidu.com:8081/page2.html
+[INFO] [12-05 14:20:23] Start to crawl the url: http://pycm.baidu.com:8081/page3.html
+[INFO] [12-05 14:20:23] Start to crawl the url: http://pycm.baidu.com:8081/mirror/index.html
+[INFO] [12-05 14:20:23] Start to crawl the url: http://pycm.baidu.com:8081/page4.html
+[ERROR] [12-05 14:20:23] Url: http://pycm.baidu.com:8081/page4.html has IOError: HTTP Error 404: Not Found
+[ERROR] [12-05 14:20:23] Url: http://pycm.baidu.com:8081/page4.html has IOError: HTTP Error 404: Not Found
+[INFO] [12-05 14:20:23] The crawled url: http://pycm.baidu.com:8081/3/page3_1.html
+[ERROR] [12-05 14:20:23] Url: http://pycm.baidu.com:8081/page4.html has IOError: HTTP Error 404: Not Found
+[INFO] [12-05 14:20:23] The crawled url: http://pycm.baidu.com:8081/3/page3_4.html
+[INFO] [12-05 14:20:23] The crawled url: http://pycm.baidu.com:8081/page1.html
+[INFO] [12-05 14:20:23] The crawled url: http://pycm.baidu.com:8081/page2.html
+[INFO] [12-05 14:20:23] The crawled url: http://pycm.baidu.com:8081/page3.html
+[INFO] [12-05 14:20:23] The crawled url: http://pycm.baidu.com:8081/mirror/index.html
+[INFO] [12-05 14:20:23] The crawled url: http://pycm.baidu.com:8081/page4.html
+[INFO] [12-05 14:20:24] Start to crawl the url: http://pycm.baidu.com:8081/3/page3_1.html
+[INFO] [12-05 14:20:24] Start to crawl the url: http://pycm.baidu.com:8081/3/page3_4.html
+[INFO] [12-05 14:20:24] The crawled url: http://pycm.baidu.com:8081/3/4/page3_2.html
+[INFO] [12-05 14:20:25] Start to crawl the url: http://pycm.baidu.com:8081/3/4/page3_2.html
+[WARNING] [12-05 14:20:27] The url: http://pycm.baidu.com:8081 not match pattern
+[WARNING] [12-05 14:20:27] The url: http://pycm.baidu.com:8081/page1.html match pattern
+[INFO] [12-05 14:20:27] Match url: http://pycm.baidu.com:8081/page1.html
+[INFO] [12-05 14:20:27] Save url: http://pycm.baidu.com:8081/page1.html success!
+[INFO] [12-05 14:20:27] success save url: http://pycm.baidu.com:8081/page1.html
+[WARNING] [12-05 14:20:27] The url: http://pycm.baidu.com:8081/page2.html match pattern
+[INFO] [12-05 14:20:27] Match url: http://pycm.baidu.com:8081/page2.html
+[INFO] [12-05 14:20:27] Save url: http://pycm.baidu.com:8081/page2.html success!
+[INFO] [12-05 14:20:27] success save url: http://pycm.baidu.com:8081/page2.html
+[WARNING] [12-05 14:20:27] The url: http://pycm.baidu.com:8081/page3.html match pattern
+[INFO] [12-05 14:20:27] Match url: http://pycm.baidu.com:8081/page3.html
+[INFO] [12-05 14:20:27] Save url: http://pycm.baidu.com:8081/page3.html success!
+[INFO] [12-05 14:20:27] success save url: http://pycm.baidu.com:8081/page3.html
+[WARNING] [12-05 14:20:27] The url: http://pycm.baidu.com:8081/mirror/index.html match pattern
+[INFO] [12-05 14:20:27] Match url: http://pycm.baidu.com:8081/mirror/index.html
+[INFO] [12-05 14:20:27] Save url: http://pycm.baidu.com:8081/mirror/index.html success!
+[INFO] [12-05 14:20:27] success save url: http://pycm.baidu.com:8081/mirror/index.html
+[WARNING] [12-05 14:20:27] The url: http://pycm.baidu.com:8081/page4.html match pattern
+[INFO] [12-05 14:20:27] Match url: http://pycm.baidu.com:8081/page4.html
+[INFO] [12-05 14:20:27] Save url: http://pycm.baidu.com:8081/page4.html success!
+[INFO] [12-05 14:20:27] success save url: http://pycm.baidu.com:8081/page4.html
+[WARNING] [12-05 14:20:27] The url: http://pycm.baidu.com:8081/3/page3_1.html match pattern
+[INFO] [12-05 14:20:27] Match url: http://pycm.baidu.com:8081/3/page3_1.html
+[INFO] [12-05 14:20:27] Save url: http://pycm.baidu.com:8081/3/page3_1.html success!
+[INFO] [12-05 14:20:27] success save url: http://pycm.baidu.com:8081/3/page3_1.html
+[WARNING] [12-05 14:20:27] The url: http://pycm.baidu.com:8081/3/page3_4.html match pattern
+[INFO] [12-05 14:20:27] Match url: http://pycm.baidu.com:8081/3/page3_4.html
+[INFO] [12-05 14:20:27] Save url: http://pycm.baidu.com:8081/3/page3_4.html success!
+[INFO] [12-05 14:20:27] success save url: http://pycm.baidu.com:8081/3/page3_4.html
+[WARNING] [12-05 14:20:27] The url: http://pycm.baidu.com:8081/3/4/page3_2.html match pattern
+[INFO] [12-05 14:20:27] Match url: http://pycm.baidu.com:8081/3/4/page3_2.html
+[INFO] [12-05 14:20:27] Save url: http://pycm.baidu.com:8081/3/4/page3_2.html success!
+[INFO] [12-05 14:20:27] success save url: http://pycm.baidu.com:8081/3/4/page3_2.html
+[INFO] [12-05 14:20:27] End to spider!
+[INFO] [12-05 18:48:07] Start to load config file: ./conf/spider.conf
+[INFO] [12-05 18:48:07] load config success!
+[INFO] [12-05 18:48:07] Load urls success!
+[INFO] [12-05 18:48:07] Start to crawl urls in the url_queue:['http://pycm.baidu.com:8081']
+[INFO] [12-05 18:48:07] Start to crawl the url: http://pycm.baidu.com:8081
+[INFO] [12-05 18:48:07] The crawled url: http://pycm.baidu.com:8081/page1.html
+[INFO] [12-05 18:48:07] The crawled url: http://pycm.baidu.com:8081/page2.html
+[INFO] [12-05 18:48:07] The crawled url: http://pycm.baidu.com:8081/page3.html
+[INFO] [12-05 18:48:07] The crawled url: http://pycm.baidu.com:8081/mirror/index.html
+[INFO] [12-05 18:48:07] The crawled url: http://pycm.baidu.com:8081/page4.html
+[INFO] [12-05 18:48:08] Start to crawl the url: http://pycm.baidu.com:8081/page1.html
+[INFO] [12-05 18:48:08] Start to crawl the url: http://pycm.baidu.com:8081/page2.html
+[INFO] [12-05 18:48:08] Start to crawl the url: http://pycm.baidu.com:8081/page3.html
+[INFO] [12-05 18:48:08] Start to crawl the url: http://pycm.baidu.com:8081/mirror/index.html
+[INFO] [12-05 18:48:08] Start to crawl the url: http://pycm.baidu.com:8081/page4.html
+[ERROR] [12-05 18:48:08] Url: http://pycm.baidu.com:8081/page4.html has IOError: HTTP Error 404: Not Found
+[ERROR] [12-05 18:48:08] Url: http://pycm.baidu.com:8081/page4.html has IOError: HTTP Error 404: Not Found
+[ERROR] [12-05 18:48:08] Url: http://pycm.baidu.com:8081/page4.html has IOError: HTTP Error 404: Not Found
+[INFO] [12-05 18:48:08] The crawled url: http://pycm.baidu.com:8081/3/page3_1.html
+[INFO] [12-05 18:48:08] The crawled url: http://pycm.baidu.com:8081/3/page3_4.html
+[INFO] [12-05 18:48:08] The crawled url: http://pycm.baidu.com:8081/page1.html
+[INFO] [12-05 18:48:08] The crawled url: http://pycm.baidu.com:8081/page2.html
+[INFO] [12-05 18:48:08] The crawled url: http://pycm.baidu.com:8081/page3.html
+[INFO] [12-05 18:48:08] The crawled url: http://pycm.baidu.com:8081/mirror/index.html
+[INFO] [12-05 18:48:08] The crawled url: http://pycm.baidu.com:8081/page4.html
+[INFO] [12-05 18:48:09] Start to crawl the url: http://pycm.baidu.com:8081/3/page3_1.html
+[INFO] [12-05 18:48:09] Start to crawl the url: http://pycm.baidu.com:8081/3/page3_4.html
+[WARNING] [12-05 18:48:10] The url: http://pycm.baidu.com:8081 not match pattern
+[WARNING] [12-05 18:48:10] The url: http://pycm.baidu.com:8081/page1.html match pattern
+[INFO] [12-05 18:48:10] Match url: http://pycm.baidu.com:8081/page1.html
+[INFO] [12-05 18:48:10] Save url: http://pycm.baidu.com:8081/page1.html success!
+[INFO] [12-05 18:48:10] success save url: http://pycm.baidu.com:8081/page1.html
+[WARNING] [12-05 18:48:10] The url: http://pycm.baidu.com:8081/page2.html match pattern
+[INFO] [12-05 18:48:10] Match url: http://pycm.baidu.com:8081/page2.html
+[INFO] [12-05 18:48:10] Save url: http://pycm.baidu.com:8081/page2.html success!
+[INFO] [12-05 18:48:10] success save url: http://pycm.baidu.com:8081/page2.html
+[WARNING] [12-05 18:48:10] The url: http://pycm.baidu.com:8081/page3.html match pattern
+[INFO] [12-05 18:48:10] Match url: http://pycm.baidu.com:8081/page3.html
+[INFO] [12-05 18:48:10] Save url: http://pycm.baidu.com:8081/page3.html success!
+[INFO] [12-05 18:48:10] success save url: http://pycm.baidu.com:8081/page3.html
+[WARNING] [12-05 18:48:10] The url: http://pycm.baidu.com:8081/mirror/index.html match pattern
+[INFO] [12-05 18:48:10] Match url: http://pycm.baidu.com:8081/mirror/index.html
+[INFO] [12-05 18:48:10] Save url: http://pycm.baidu.com:8081/mirror/index.html success!
+[INFO] [12-05 18:48:10] success save url: http://pycm.baidu.com:8081/mirror/index.html
+[WARNING] [12-05 18:48:10] The url: http://pycm.baidu.com:8081/page4.html match pattern
+[INFO] [12-05 18:48:10] Match url: http://pycm.baidu.com:8081/page4.html
+[INFO] [12-05 18:48:10] Save url: http://pycm.baidu.com:8081/page4.html success!
+[INFO] [12-05 18:48:10] success save url: http://pycm.baidu.com:8081/page4.html
+[WARNING] [12-05 18:48:10] The url: http://pycm.baidu.com:8081/3/page3_1.html match pattern
+[INFO] [12-05 18:48:10] Match url: http://pycm.baidu.com:8081/3/page3_1.html
+[INFO] [12-05 18:48:10] Save url: http://pycm.baidu.com:8081/3/page3_1.html success!
+[INFO] [12-05 18:48:10] success save url: http://pycm.baidu.com:8081/3/page3_1.html
+[WARNING] [12-05 18:48:10] The url: http://pycm.baidu.com:8081/3/page3_4.html match pattern
+[INFO] [12-05 18:48:10] Match url: http://pycm.baidu.com:8081/3/page3_4.html
+[INFO] [12-05 18:48:10] Save url: http://pycm.baidu.com:8081/3/page3_4.html success!
+[INFO] [12-05 18:48:10] success save url: http://pycm.baidu.com:8081/3/page3_4.html
+[INFO] [12-05 18:48:10] End to spider!
+[INFO] [12-05 19:06:12] Start to load config file: ./conf/spider.conf
+[INFO] [12-05 19:06:12] load config success!
+[INFO] [12-05 19:06:12] Load urls success!
+[INFO] [12-05 19:06:12] Start to crawl urls in the url_queue:['http://pycm.baidu.com:8081']
+[INFO] [12-05 19:06:12] Start to crawl the url: http://pycm.baidu.com:8081
+[INFO] [12-05 19:06:12] The crawled url: http://pycm.baidu.com:8081/page1.html
+[INFO] [12-05 19:06:12] The crawled url: http://pycm.baidu.com:8081/page2.html
+[INFO] [12-05 19:06:12] The crawled url: http://pycm.baidu.com:8081/page3.html
+[INFO] [12-05 19:06:12] The crawled url: http://pycm.baidu.com:8081/mirror/index.html
+[INFO] [12-05 19:06:12] The crawled url: http://pycm.baidu.com:8081/page4.html
+[INFO] [12-05 19:06:13] Start to crawl the url: http://pycm.baidu.com:8081/page1.html
+[INFO] [12-05 19:06:13] Start to crawl the url: http://pycm.baidu.com:8081/page2.html
+[INFO] [12-05 19:06:13] Start to crawl the url: http://pycm.baidu.com:8081/page3.html
+[INFO] [12-05 19:06:13] Start to crawl the url: http://pycm.baidu.com:8081/mirror/index.html
+[INFO] [12-05 19:06:13] Start to crawl the url: http://pycm.baidu.com:8081/page4.html
+[ERROR] [12-05 19:06:13] Url: http://pycm.baidu.com:8081/page4.html has IOError: HTTP Error 404: Not Found
+[ERROR] [12-05 19:06:13] Url: http://pycm.baidu.com:8081/page4.html has IOError: HTTP Error 404: Not Found
+[ERROR] [12-05 19:06:13] Url: http://pycm.baidu.com:8081/page4.html has IOError: HTTP Error 404: Not Found
+[ERROR] [12-05 19:06:13] Url: http://pycm.baidu.com:8081/page4.html has IOError: HTTP Error 404: Not Found
+[INFO] [12-05 19:06:13] The crawled url: http://pycm.baidu.com:8081/page1.html
+[INFO] [12-05 19:06:13] The crawled url: http://pycm.baidu.com:8081/page2.html
+[INFO] [12-05 19:06:13] The crawled url: http://pycm.baidu.com:8081/page3.html
+[INFO] [12-05 19:06:13] The crawled url: http://pycm.baidu.com:8081/mirror/index.html
+[INFO] [12-05 19:06:13] The crawled url: http://pycm.baidu.com:8081/page4.html
+[WARNING] [12-05 19:06:14] The url: http://pycm.baidu.com:8081 not match pattern
+[WARNING] [12-05 19:06:14] The url: http://pycm.baidu.com:8081/page1.html match pattern
+[INFO] [12-05 19:06:14] Match url: http://pycm.baidu.com:8081/page1.html
+[INFO] [12-05 19:06:14] Save url: http://pycm.baidu.com:8081/page1.html success!
+[INFO] [12-05 19:06:14] success save url: http://pycm.baidu.com:8081/page1.html
+[WARNING] [12-05 19:06:14] The url: http://pycm.baidu.com:8081/page2.html match pattern
+[INFO] [12-05 19:06:14] Match url: http://pycm.baidu.com:8081/page2.html
+[INFO] [12-05 19:06:14] Save url: http://pycm.baidu.com:8081/page2.html success!
+[INFO] [12-05 19:06:14] success save url: http://pycm.baidu.com:8081/page2.html
+[WARNING] [12-05 19:06:14] The url: http://pycm.baidu.com:8081/page3.html match pattern
+[INFO] [12-05 19:06:14] Match url: http://pycm.baidu.com:8081/page3.html
+[INFO] [12-05 19:06:14] Save url: http://pycm.baidu.com:8081/page3.html success!
+[INFO] [12-05 19:06:14] success save url: http://pycm.baidu.com:8081/page3.html
+[WARNING] [12-05 19:06:14] The url: http://pycm.baidu.com:8081/mirror/index.html match pattern
+[INFO] [12-05 19:06:14] Match url: http://pycm.baidu.com:8081/mirror/index.html
+[INFO] [12-05 19:06:14] Save url: http://pycm.baidu.com:8081/mirror/index.html success!
+[INFO] [12-05 19:06:14] success save url: http://pycm.baidu.com:8081/mirror/index.html
+[WARNING] [12-05 19:06:14] The url: http://pycm.baidu.com:8081/page4.html match pattern
+[INFO] [12-05 19:06:14] Match url: http://pycm.baidu.com:8081/page4.html
+[INFO] [12-05 19:06:14] Save url: http://pycm.baidu.com:8081/page4.html success!
+[INFO] [12-05 19:06:14] success save url: http://pycm.baidu.com:8081/page4.html
+[INFO] [12-05 19:06:14] End to spider!
+[INFO] [12-05 19:39:06] Start to load config file: ./conf/spider.conf
+[INFO] [12-05 19:39:06] load config success!
+[INFO] [12-05 19:39:06] Load urls success!
+[INFO] [12-05 19:39:06] Start to crawl urls in the url_queue:['http://pycm.baidu.com:8081']
+[INFO] [12-05 19:39:06] Start to crawl the url: http://pycm.baidu.com:8081
+[INFO] [12-05 19:39:06] The crawled url: http://pycm.baidu.com:8081/page1.html
+[INFO] [12-05 19:39:06] The crawled url: http://pycm.baidu.com:8081/page2.html
+[INFO] [12-05 19:39:06] The crawled url: http://pycm.baidu.com:8081/page3.html
+[INFO] [12-05 19:39:06] The crawled url: http://pycm.baidu.com:8081/mirror/index.html
+[INFO] [12-05 19:39:06] The crawled url: http://pycm.baidu.com:8081/page4.html
+[INFO] [12-05 19:39:07] Start to crawl the url: http://pycm.baidu.com:8081/page1.html
+[INFO] [12-05 19:39:07] Start to crawl the url: http://pycm.baidu.com:8081/page2.html
+[INFO] [12-05 19:39:07] Start to crawl the url: http://pycm.baidu.com:8081/page3.html
+[INFO] [12-05 19:39:07] Start to crawl the url: http://pycm.baidu.com:8081/mirror/index.html
+[INFO] [12-05 19:39:07] Start to crawl the url: http://pycm.baidu.com:8081/page4.html
+[ERROR] [12-05 19:39:07] Url: http://pycm.baidu.com:8081/page4.html has IOError: HTTP Error 404: Not Found
+[ERROR] [12-05 19:39:07] Url: http://pycm.baidu.com:8081/page4.html has IOError: HTTP Error 404: Not Found
+[INFO] [12-05 19:39:07] The crawled url: http://pycm.baidu.com:8081/page2_1.html
+[INFO] [12-05 19:39:07] The crawled url: http://pycm.baidu.com:8081/page2_1.html
+[INFO] [12-05 19:39:07] The crawled url: http://pycm.baidu.com:8081/2/index.html
+[INFO] [12-05 19:39:07] The crawled url: http://pycm.baidu.com:8081/2/index.html
+[ERROR] [12-05 19:39:07] Url: http://pycm.baidu.com:8081/page4.html has IOError: HTTP Error 404: Not Found
+[INFO] [12-05 19:39:08] Start to crawl the url: http://pycm.baidu.com:8081/page2_1.html
+[INFO] [12-05 19:39:08] Start to crawl the url: http://pycm.baidu.com:8081/2/index.html
+[INFO] [12-05 19:39:08] The crawled url: http://pycm.baidu.com:8081/page2_1.html
+[INFO] [12-05 19:39:08] The crawled url: http://pycm.baidu.com:8081/2/3/index.html
+[INFO] [12-05 19:39:09] Start to crawl the url: http://pycm.baidu.com:8081/2/3/index.html
+[INFO] [12-05 19:39:09] The crawled url: http://pycm.baidu.com:8081/page2_1.html
+[INFO] [12-05 19:39:09] The crawled url: http://pycm.baidu.com:8081/2/3/4/index.html
+[WARNING] [12-05 19:39:10] The url: http://pycm.baidu.com:8081 not match pattern
+[WARNING] [12-05 19:39:10] The url: http://pycm.baidu.com:8081/page1.html match pattern
+[INFO] [12-05 19:39:10] Match url: http://pycm.baidu.com:8081/page1.html
+[INFO] [12-05 19:39:10] Save url: http://pycm.baidu.com:8081/page1.html success!
+[INFO] [12-05 19:39:10] success save url: http://pycm.baidu.com:8081/page1.html
+[WARNING] [12-05 19:39:10] The url: http://pycm.baidu.com:8081/page2.html match pattern
+[INFO] [12-05 19:39:10] Match url: http://pycm.baidu.com:8081/page2.html
+[INFO] [12-05 19:39:10] Save url: http://pycm.baidu.com:8081/page2.html success!
+[INFO] [12-05 19:39:10] success save url: http://pycm.baidu.com:8081/page2.html
+[WARNING] [12-05 19:39:10] The url: http://pycm.baidu.com:8081/page3.html match pattern
+[INFO] [12-05 19:39:10] Match url: http://pycm.baidu.com:8081/page3.html
+[INFO] [12-05 19:39:10] Save url: http://pycm.baidu.com:8081/page3.html success!
+[INFO] [12-05 19:39:10] success save url: http://pycm.baidu.com:8081/page3.html
+[WARNING] [12-05 19:39:10] The url: http://pycm.baidu.com:8081/mirror/index.html match pattern
+[INFO] [12-05 19:39:10] Match url: http://pycm.baidu.com:8081/mirror/index.html
+[INFO] [12-05 19:39:11] Save url: http://pycm.baidu.com:8081/mirror/index.html success!
+[INFO] [12-05 19:39:11] success save url: http://pycm.baidu.com:8081/mirror/index.html
+[WARNING] [12-05 19:39:11] The url: http://pycm.baidu.com:8081/page4.html match pattern
+[INFO] [12-05 19:39:11] Match url: http://pycm.baidu.com:8081/page4.html
+[INFO] [12-05 19:39:11] Save url: http://pycm.baidu.com:8081/page4.html success!
+[INFO] [12-05 19:39:11] success save url: http://pycm.baidu.com:8081/page4.html
+[WARNING] [12-05 19:39:11] The url: http://pycm.baidu.com:8081/page2_1.html match pattern
+[INFO] [12-05 19:39:11] Match url: http://pycm.baidu.com:8081/page2_1.html
+[INFO] [12-05 19:39:11] Save url: http://pycm.baidu.com:8081/page2_1.html success!
+[INFO] [12-05 19:39:11] success save url: http://pycm.baidu.com:8081/page2_1.html
+[WARNING] [12-05 19:39:11] The url: http://pycm.baidu.com:8081/2/index.html match pattern
+[INFO] [12-05 19:39:11] Match url: http://pycm.baidu.com:8081/2/index.html
+[INFO] [12-05 19:39:11] Save url: http://pycm.baidu.com:8081/2/index.html success!
+[INFO] [12-05 19:39:11] success save url: http://pycm.baidu.com:8081/2/index.html
+[WARNING] [12-05 19:39:11] The url: http://pycm.baidu.com:8081/2/3/index.html match pattern
+[INFO] [12-05 19:39:11] Match url: http://pycm.baidu.com:8081/2/3/index.html
+[INFO] [12-05 19:39:11] Save url: http://pycm.baidu.com:8081/2/3/index.html success!
+[INFO] [12-05 19:39:11] success save url: http://pycm.baidu.com:8081/2/3/index.html
+[INFO] [12-05 19:39:11] End to spider!
