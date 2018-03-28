@@ -2,7 +2,7 @@
 #-*-coding: utf-8 -*-
 """
   @FileName : spider_unittest.py
-  @Author : wangqun02(wangqun02@baidu.com)
+  @Author : lianxin
   @CreateTime : 2016-12-05 10:10
   @Last modified : 2016-12-05 20:10
   @Description : main function
