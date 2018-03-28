@@ -1,7 +1,7 @@
 #!/bin/bash 
 HADOOP_ROOT="/home/work/hadoop-client/hadoop/"
 HADOOP_BIN="$HADOOP_ROOT/bin/hadoop"
-HADOOP_HENG="$HADOOP_BIN --config $HADOOP_ROOT/conf_heng"
+HADOOP_HENG="$HADOOP_BIN --config $HADOOP_ROOT/conf"
 
 #map规则：格式为int key\tvalue
 #-partitioner com.baidu.sos.mapred.lib.IntHashPartitioner \
