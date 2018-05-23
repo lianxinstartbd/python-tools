@@ -2,7 +2,7 @@
 #-*-coding: utf-8 -*-
 """
   @FileName : webpage_save.py
-  @Author : wangqun02(wangqun02@baidu.com)
+  @Author : lianxin
   @CreateTime : 2016-12-01 20:10
   @Last modified : 2016-12-03 12:10
   @Description : main function

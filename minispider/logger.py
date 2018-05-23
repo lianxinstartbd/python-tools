@@ -2,7 +2,7 @@
 #-*-coding: utf-8 -*-
 """
   @FileName : logger.py
-  @Author : wangqun02(wangqun02@baidu.com)
+  @Author : lianxin
   @CreateTime : 2016-11-24 20:10
   @Last modified : 2016-11-26 10:10
   @Description : logger

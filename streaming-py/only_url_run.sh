@@ -1,7 +1,7 @@
 #!/bin/bash 
 HADOOP_ROOT="/home/work/hadoop-client/hadoop/"
 HADOOP_BIN="$HADOOP_ROOT/bin/hadoop"
-HADOOP_HENG="$HADOOP_BIN --config $HADOOP_ROOT/conf_heng"
+HADOOP_HENG="$HADOOP_BIN --config $HADOOP_ROOT/conf"
 
 #输入为：一批url数据，存储在不同的hdfs_path中，对这些url进行去重，并存储到hdfs_path中
 #map规则：格式为int key\tvalue

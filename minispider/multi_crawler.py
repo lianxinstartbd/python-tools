@@ -2,7 +2,7 @@
 #-*-coding: utf-8 -*-
 """
   @FileName : mini_spider.py
-  @Author : wangqun02(wangqun02@baidu.com)
+  @Author : lianxin
   @CreateTime : 2016-12-01 20:10
   @Last modified : 2016-12-05 12:10
   @Description : main function
